@@ -1,7 +1,9 @@
-## Developed by: Jackson Raj A
-## RegisterNumber:  212223040071
-## Exp-02-Implementation of Half Adder and Full Adder circuit:
 
+## 3. Implementation of Half Adder and Full Adder circuit:
+
+Developed by: Jackson Raj A
+
+RegisterNumber:  212223040071
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
