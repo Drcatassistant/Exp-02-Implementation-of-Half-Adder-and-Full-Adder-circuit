@@ -1,5 +1,5 @@
-## Developed by: lakshmi mounika
-## RegisterNumber:  23004124
+## Developed by: Jackson Raj A
+## RegisterNumber:  23012756
 ## Exp-02-Implementation of Half Adder and Full Adder circuit:
 
 ### AIM:
